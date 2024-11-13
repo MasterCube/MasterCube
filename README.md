@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @MasterCube
-- 👀 I’m interested in Computational Biology, Bioinformatics, Biophysics, Biochemistry, Molecular Biology
-- 🌱 I’m currently learning how to use DEEP LEARNING architectures for Computational Biology projects
+- 👀 I’m active in Computational Biology, Bioinformatics, Biophysics, Biochemistry, Molecular Biology
+- 🌱 I learned how to use DEEP LEARNING architectures for Computational Biology projects
 - 💞️ I’m looking to collaborate on protein synthesis models like TASEP (Totally Asymmetric Simple Exclusion Process)
+- I am familiar with HPC, cluster computing, UNIX/Linux, SLURM, bash scripting. When a developer, I like Python and C++ and am currently learning Julia.
 - 📫 How to reach me? joiret.bioinformatics@gmail.com
 
 <!---
